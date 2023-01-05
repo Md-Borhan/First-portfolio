@@ -95,7 +95,7 @@ section{
   text-align: center;
   font-weight: 700;
   font-size: 35px;
-  margin-bottom: 110px;
+  margin-bottom: 30px;
   color: #181818;
 }
 .section-desc {
@@ -149,6 +149,9 @@ section{
 .resume-content{
   display: flex;
   gap: 24px;
+}
+.resume .section-title{
+  margin-bottom: 110px;
 }
 .resume-title{
   font-size: 30px;
